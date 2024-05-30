@@ -6,16 +6,14 @@
 
 - Set data paths in .env
 
+## Have Fun
 ```bash
 cd docker/ollama
 docker compose up -d
 ```
 
-## Have Fun
+- UI http://localhost:3000
+- API http://localhost:11434/api
+
 - [open webui](https://github.com/open-webui/open-webui)
-
-https://localhost:3000
-
 - [ollama api](https://ollama.com/)
-
-localhost:11434/api
