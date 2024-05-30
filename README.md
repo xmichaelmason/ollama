@@ -13,6 +13,9 @@ docker compose up -d
 ```
 
 - UI http://localhost:3000
+
+- Navigate to the UI, go into settings, download models
+
 - API http://localhost:11434/api
 
 ## Used Projects
