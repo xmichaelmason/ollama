@@ -15,5 +15,6 @@ docker compose up -d
 - UI http://localhost:3000
 - API http://localhost:11434/api
 
+## Used Projects
 - [open webui](https://github.com/open-webui/open-webui)
 - [ollama api](https://ollama.com/)
